@@ -33,7 +33,7 @@ PG_FUNCTION_INFO_V1(tsparser_lextype);
 PG_FUNCTION_INFO_V1(tsparser_headline);
 
 /* Define me to enable tracing of parser behavior */
-#define WPARSER_TRACE
+/* #define WPARSER_TRACE */
 
 /* Output token categories */
 
